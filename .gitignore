@@ -6,6 +6,8 @@
 *.docx
 *.doc
 *.odt
+.~lock.*#
+*.odt#
 
 # Fichiers temporaires Office (le fameux ~$Exercices.xlsx)
 ~$*
