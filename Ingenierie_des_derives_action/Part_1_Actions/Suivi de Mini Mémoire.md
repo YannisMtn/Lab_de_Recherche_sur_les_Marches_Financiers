@@ -22,9 +22,10 @@
 - [x] **Chapitre 3 : Les résultats** (EBITDA/EBIT vs Trésorerie)
 - [x] **Chapitre 4 : Actif économique & Ressources** 
     * *Note : Travail sur l'équation fondamentale : Actif Éco = Capitaux Propres + Dette Nette.*
-- [ ] **Chapitre 5 : Tableau de flux** (Pont résultat/endettement) ![Current](https://img.shields.io/badge/FOCUS-ACTUEL-blue)
+- [x] **Chapitre 5 : Tableau de flux** (Pont résultat/endettement) 
 
 #### Phase 2 : Diagnostic Financier & Projections
+- [ ] Introduction au diagnostic financier ![Current](https://img.shields.io/badge/FOCUS-ACTUEL-blue)
 - [ ] Analyse des marges et effet ciseau (Chap. 10-11)
 - [ ] Dynamique du BFR et Capex (Chap. 12)
 - [ ] Rentabilité économique vs Rentabilité des capitaux propres (Chap. 14)
