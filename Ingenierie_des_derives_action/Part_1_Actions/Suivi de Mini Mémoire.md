@@ -25,8 +25,8 @@
 - [x] **Chapitre 5 : Tableau de flux** (Pont résultat/endettement) 
 
 #### Phase 2 : Diagnostic Financier & Projections
-- [ ] Introduction au diagnostic financier ![Current](https://img.shields.io/badge/FOCUS-ACTUEL-blue)
-- [ ] Analyse des marges et effet ciseau (Chap. 10-11)
+- [x] Introduction au diagnostic financier 
+- [ ] Analyse des marges et effet ciseau (Chap. 10-11) ![Current](https://img.shields.io/badge/FOCUS-ACTUEL-blue)
 - [ ] Dynamique du BFR et Capex (Chap. 12)
 - [ ] Rentabilité économique vs Rentabilité des capitaux propres (Chap. 14)
 
