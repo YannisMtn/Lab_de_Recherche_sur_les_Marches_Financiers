@@ -11,3 +11,7 @@
 
 # Fichiers temporaires Office (le fameux ~$Exercices.xlsx)
 ~$*
+
+# Checkpoints Jupyter (pollution visuelle dans GitHub)
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
