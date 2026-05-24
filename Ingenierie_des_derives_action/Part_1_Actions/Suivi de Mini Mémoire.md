@@ -104,11 +104,11 @@ Le DCF est l'objet de départ.
 
 ---
 
-### Fin de Passe A - Procéder à la rédaction du récit economique  ![Current](https://img.shields.io/badge/FOCUS-ACTUEL-blue)
+### Fin de Passe A - Faire le récit economique  ![Current](https://img.shields.io/badge/FOCUS-ACTUEL-blue)
 
 ---
 
-### Passe B Procéder aux recherches en profondeur mathématiques sur les éléments retenus dans la rédaction de la Passe A pour l'approfondissement mathématique
+### Passe B - Faire les recherches mathématiques en profondeur sur les éléments retenus dans la rédaction triés depuis la Passe A pour l'approfondissement mathématique
 
 ---
 
