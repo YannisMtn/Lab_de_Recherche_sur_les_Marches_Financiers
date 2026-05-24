@@ -59,9 +59,9 @@ Le DCF est l'objet de départ.
 ---
 
 #### Bloc B — Socle mathématique de l'actualisation (le « (1+CMPC)⁻ᵗ »)
-- [ ] **Capitalisation, actualisation, VAN** (**Ch. 17** « Valeur et taux d'intérêt » : §1 capitalisation, §2 actualisation, §3 VAN, §4 déterminants)
+- [x] **Capitalisation, actualisation, VAN** (**Ch. 17** « Valeur et taux d'intérêt » : §1 capitalisation, §2 actualisation, §3 VAN, §4 déterminants)
     * *C'est ici qu'on prouve la structure de **suite/série actualisée** : support temporel discret t ∈ {1,…,n}, facteurs (1+k)⁻ᵗ.*
-- [ ] **Mathématiques financières & taux actuariel** (**Ch. 18**, notamment §5 « Un peu plus de mathématiques financières »)
+- [x] **Mathématiques financières & taux actuariel** (**Ch. 18**, notamment §5 « Un peu plus de mathématiques financières »)
     * *Convergence de la série géométrique, lien forme finie ↔ forme fermée (cas Gordon-Shapiro).*
 
 ---
@@ -95,7 +95,7 @@ Le DCF est l'objet de départ.
 - [x] **Mesures de création de valeur** (**Ch. 29** : §2 VAN, §3 profit économique/EVA, §4 critères boursiers, §5 critères comptables — ROIC)
 - [x] **Choix d'investissement** (**Ch. 30** : §1 VAN/TRI)
 - [x] **Mesures mathématiques du risque** (**Ch. 32 §2**)
-- [ ] **Valeur de l'actif économique & structure financière** (**Ch. 34 §1** — passage actif éco → capitaux propres)
+- [x] **Valeur de l'actif économique & structure financière** (**Ch. 34 §1** — passage actif éco → capitaux propres)
 
 ---
 
