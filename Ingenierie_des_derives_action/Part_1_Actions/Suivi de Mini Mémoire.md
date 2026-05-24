@@ -29,20 +29,17 @@ La rédaction de la Partie 1 suit **deux passes** :
 
 ### Étape 1 : De l'Information Financière à l'Évaluation
 *Objectif : transformer les flux réels en valeur théorique, puis isoler la valeur intrinsèque de l'action.*
-
----
-
-#### Point d'entrée — États financiers.
-
-- [x] **Chapitre 2 : Les flux de trésorerie** (cycles d'exploitation/investissement ; ressources financières)
-- [x] **Chapitre 3 : Les résultats** (§1 génération de richesse ; §2 présentations du compte de résultat — EBITDA/EBIT vs trésorerie)
-- [x] **Chapitre 4 : L'actif économique et les ressources** (§2 lecture économique du bilan)
-    * *Équation fondamentale : Actif économique = Capitaux propres + Dette nette.*
-- [x] **Chapitre 5 : Du résultat à la variation de l'endettement net** (§2-3 tableau de flux de trésorerie)
-- [x] **Flux à retenir pour la valorisation** (**Ch. 30 §3** « Les flux de trésorerie à retenir » — définition précise des FCF projetés du DCF)
-    * *Nature : suite (FCF_t)_{t=1..n} ∈ ℝⁿ, déterministe en espérance.*
-
-
+ 
+#### Problématiques directrices de l'Étape 1
+*Ces questions orientent la recherche et servent de **filtre Passe A → Passe B** : un élément n'est approfondi mathématiquement que s'il répond directement à l'une d'elles ; sinon il reste au niveau récit/mention.*
+ 
+1. **Quelle information l'entreprise transmet-elle, et comment cette information se transforme-t-elle en une valeur ?** (des états financiers à la formule de valorisation)
+2. **Quelle est la nature mathématique des données qui entrent dans la valorisation ?** Dans quel ensemble vivent-elles, sont-elles discrètes ou continues, relèvent-elles d'une suite, d'une série, d'un produit vectoriel ? — *cœur de la Passe B.*
+3. **Pourquoi obtient-on une fourchette de valeur et non un point unique ?** (DCF ∩ multiples, risque de modèle)
+4. **D'où vient le taux d'actualisation (CMPC), et que présuppose-t-il ?** En particulier, quelles hypothèses du MEDAF seront contredites plus loin par le comportement réel des prix.
+5. **En quoi la valeur intrinsèque ainsi obtenue diffère-t-elle structurellement du prix de marché ?** — question-charnière qui ouvre l'Étape 2 et, à terme, justifie le caractère stochastique du prix.
+**Critère de tri opérationnel :** un objet entre en Passe B s'il **apparaît comme variable dans la formule de valorisation** (FCF, facteur d'actualisation, CMPC, valeur terminale, β). S'il *conditionne* ces variables sans y apparaître (marges, effet de levier, analyse du financement) → mention justifiée d'une phrase. S'il ne fait que décrire ou diagnostiquer → mention ou omission.
+ 
 ---
 
 #### Bloc A — La valeur
@@ -111,9 +108,11 @@ Le DCF est l'objet de départ.
 
 ---
 
-### Procéder aux recherches en profondeur mathématiques sur les éléments retenus dans la rédaction de la Passe A pour l'approfondissement mathématique
+### Passe B Procéder aux recherches en profondeur mathématiques sur les éléments retenus dans la rédaction de la Passe A pour l'approfondissement mathématique
 
 ---
+
+### Rédaction Partie qui répond aux problématiques
 
 ### Cas pratique (charnière Étape 1 → Étape 2)
 *Objectif : matérialiser l'écart valeur intrinsèque / prix de marché par un chiffre.*
