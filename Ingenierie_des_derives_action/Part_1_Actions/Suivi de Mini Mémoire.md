@@ -27,6 +27,8 @@ La rédaction de la Partie 1 suit **deux passes** :
 
 ## Road-map Détaillée & Journal de Bord
 
+---
+
 ### Étape 1 : De l'Information Financière à l'Évaluation
 *Objectif : transformer les flux réels en valeur théorique, puis isoler la valeur intrinsèque de l'action.*
  
@@ -41,6 +43,16 @@ La rédaction de la Partie 1 suit **deux passes** :
 **Critère de tri opérationnel :** un objet entre en Passe B s'il **apparaît comme variable dans la formule de valorisation** (FCF, facteur d'actualisation, CMPC, valeur terminale, β). S'il *conditionne* ces variables sans y apparaître (marges, effet de levier, analyse du financement) → mention justifiée d'une phrase. S'il ne fait que décrire ou diagnostiquer → mention ou omission.
  
 ---
+
+#### Point d'entrée — États financiers.
+
+- [x] **Chapitre 2 : Les flux de trésorerie** (cycles d'exploitation/investissement ; ressources financières)
+- [x] **Chapitre 3 : Les résultats** (§1 génération de richesse ; §2 présentations du compte de résultat — EBITDA/EBIT vs trésorerie)
+- [x] **Chapitre 4 : L'actif économique et les ressources** (§2 lecture économique du bilan)
+    * *Équation fondamentale : Actif économique = Capitaux propres + Dette nette.*
+- [x] **Chapitre 5 : Du résultat à la variation de l'endettement net** (§2-3 tableau de flux de trésorerie)
+- [x] **Flux à retenir pour la valorisation** (**Ch. 30 §3** « Les flux de trésorerie à retenir » — définition précise des FCF projetés du DCF)
+    * *Nature : suite (FCF_t)_{t=1..n} ∈ ℝⁿ, déterministe en espérance.*
 
 #### Bloc A — La valeur
 
